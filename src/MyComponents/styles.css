@@ -1,0 +1,15 @@
+.footer {
+    background-color: #343a40; /* Dark background */
+    color: #ffffff; /* Light text color */
+    padding: 1rem 0; /* Padding for vertical spacing */
+    text-align: center; /* Center-align text */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margin */
+  }
+  
+  
